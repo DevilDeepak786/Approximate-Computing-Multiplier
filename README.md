@@ -59,27 +59,21 @@ Approximate computing techniques
 Carry Lookahead Adders (CLA)
 Compressor-based multiplier architectures
 
-Key Learning Outcomes
+Key Learning Outcomes:
 
 Understanding of approximate arithmetic architectures
-
 Practical experience in compressor-based multiplier design
-
 Trade-off analysis between accuracy, power, delay, and area
-
 Hands-on experience with Cadence Virtuoso and transistor-level digital design
 
-Applications
+Applications:
 
 Image and video processing
-
 Signal processing
-
 Error-tolerant machine learning hardware
-
 Low-power embedded and VLSI systems
 
-References
+References:
 
 Mohammad Saeed Ansari et al.,
 Low-Power Approximate Multipliers Using Encoded Partial Products and Approximate Compressors,
